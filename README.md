@@ -1,6 +1,6 @@
-Example PHP project
+Example PHP project for training purposes
 ===================
- 
+
 The purpose of this repository is to show how to use Travis CI to do
 continuous integration with a PHP project.
 
