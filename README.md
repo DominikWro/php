@@ -1,4 +1,4 @@
-Example PHP project for training purposes
+Example PHP project for training purposes and demonstatrion
 ===================
 
 The purpose of this repository is to show how to use Travis CI to do
